@@ -1,0 +1,15 @@
+# Initial setup (Tutorial video will be present later)
+------
+- ## MIFARE Classic Tool
+- **read tag** : start mapping and read tag
+  -  ![Screenshot_2024-04-26-23-14-07-88_95b7d1e8510fa3032a240bd8b4b39632](https://github.com/brian09088/NFC_CUID_clone_remake/assets/72643996/04a782a3-2d6f-48d9-bf56-5075e28aa16a)
+- **clone and remake** Student ID card : Dormintory Access Card
+  - ![Screenshot_2024-05-03-12-12-11-90_95b7d1e8510fa3032a240bd8b4b39632](https://github.com/brian09088/NFC_CUID_clone_remake/assets/72643996/58a0b1a3-43b6-4e6d-931d-d02992e9071f)
+- **clone UID to magic tag** (2nd gen)
+  - Electricity Building Access Card, Dormintory Access Card 
+  - ![Screenshot_2024-04-26-23-35-01-35_95b7d1e8510fa3032a240bd8b4b39632](https://github.com/brian09088/NFC_CUID_clone_remake/assets/72643996/0ce2fd3f-6527-4ce7-a8ff-17fc4867c921)
+------
+- ## NFC Tools
+- **read tag** :
+  - Electricity Building Access Card, Dormintory Access Card
+  - ![Screenshot_2024-04-26-23-34-29-28_5cc183e0a53fddf0e5b036cf0736837a](https://github.com/brian09088/NFC_CUID_clone_remake/assets/72643996/cebbf8d8-c1b3-4baf-8d19-62389f4a043f)
